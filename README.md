@@ -10,6 +10,7 @@ In this project I attempt to show that for the appropriate data and goal, the Ra
 * balance.png (image)
 * kurtosis.jpg (image)
 * rolling_window.png (image)
+* random_forest.png (image)
 * CompStat_project.R (all code used in the project)
 
 ## References
